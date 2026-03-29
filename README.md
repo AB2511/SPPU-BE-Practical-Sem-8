@@ -18,11 +18,11 @@ The practicals focus on core concepts of **Natural Language Processing (NLP)** i
 │   └── data.csv
 │
 ├── Assignment_3/
-│   └── NLP_Assignment3.ipynb
+│   ├── NLP_Assignment3.ipynb
+│   └── News_dataset.pickle
 │
 ├── Assignment_4/
-│   ├── NLP_Assignment4.ipynb
-│   └── (sample data if used)
+│   └── NLP_Assignment4.ipynb
 │
 ├── Assignment_5/
 │   └── NLP_Assignment5.ipynb
@@ -74,6 +74,7 @@ The practicals focus on core concepts of **Natural Language Processing (NLP)** i
   * Label encoding
 * Generated features using **TF-IDF**
 * Saved processed outputs
+* Dataset: News Dataset (`News_dataset.pickle`)
 
 ---
 
@@ -114,7 +115,7 @@ The practicals focus on core concepts of **Natural Language Processing (NLP)** i
 
 * All implementations are done as per SPPU LP-VI syllabus requirements
 * Focus is on conceptual understanding and practical demonstration
-* Code is simplified for learning and academic use
+* Code is simplified for academic use
 
 ---
 
@@ -128,7 +129,7 @@ git clone https://github.com/AB2511/SPPU-BE-Project-Sem-8.git
 
 2. Navigate to the required assignment folder
 
-3. Open the notebook:
+3. Open Jupyter Notebook:
 
 ```
 jupyter notebook
