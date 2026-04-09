@@ -1,5 +1,3 @@
-
-```
 # 🤖 NLP Mini Project – Transformer Fine-Tuning
 
 ## 📌 Title
@@ -101,5 +99,3 @@ Transformer-based models like BERT achieve high accuracy in NLP tasks due to sel
 
 Final Year Computer Engineering Student
 Savitribai Phule Pune University
-```
-
