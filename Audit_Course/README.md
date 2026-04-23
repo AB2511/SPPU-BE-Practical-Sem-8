@@ -81,20 +81,3 @@ On completion of the course, learner will be able to:
 1. **Daniel Goleman** - *"Emotional Intelligence – Why It Matters More Than IQ"* - Bantam Books
 2. **Steven Stein** - *"The EQ Edge"* - Jossey-Bass
 3. **Drew Bird** - *"The Leader's Guide to Emotional Intelligence"*
-
----
-
-## 📝 Assessment Method
-
-Evaluation of audit course is done at Institute level. Methods include:
-- Written Test
-- Demonstrations/Practical Test
-- Presentation or Report
-
----
-
-## 📌 Note
-
-- The student is awarded grade **AP (Audit Course Pass)** on successful completion
-- No grade points are associated with this grade
-- Performance in these courses is not accounted in SGPA and CGPA calculation
