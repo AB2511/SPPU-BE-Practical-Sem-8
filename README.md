@@ -138,6 +138,7 @@ jupyter notebook
 
 ## 👩‍💻 Author
 
+Anjali Barge
 Final Year Computer Engineering Student
 Savitribai Phule Pune University
 
@@ -145,4 +146,4 @@ Savitribai Phule Pune University
 
 ## ⭐ Acknowledgement
 
-This repository is created as part of LP-VI coursework and follows university guidelines.
+This repository is created as part of LP-V and LP-VI coursework and follows university guidelines. It also includes the Audit Course 8 (Emotional Intelligence) as per SPPU requirements.
