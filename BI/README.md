@@ -278,5 +278,5 @@ USE BI_Practical;
 
 # 👩‍💻 Author
 
-Anjali
+Anjali Barge
 BE Computer Engineering (SPPU)
