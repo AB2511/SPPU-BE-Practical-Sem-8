@@ -1,8 +1,8 @@
 # 📘 SPPU BE Computer Engineering – Laboratory Practice Repository
 
-This repository contains practical implementations for final year Computer Engineering under **Savitribai Phule Pune University (SPPU)**.
+This repository contains practical implementations for **Fourth Year Computer Engineering** under **Savitribai Phule Pune University (SPPU)**.
 
-It includes coursework from multiple subjects with structured folders for better organization and understanding.
+It includes coursework from **Laboratory Practice V (LP5)**, **Laboratory Practice VI (LP6)**, and **Audit Course 8** with structured folders for better organization and understanding.
 
 ---
 
@@ -10,66 +10,77 @@ It includes coursework from multiple subjects with structured folders for better
 
 ```
 SPPU-BE-Project-Sem-8/
-├── NLP/           → Natural Language Processing (410252)
-├── DL/            → Deep Learning (410251)
-├── HPC/           → High Performance Computing (410250)
-├── BI/            → Business Intelligence (410253)
-├── Audit_Course/  → Emotional Intelligence (410257)
+├── HPC/           → High Performance Computing (410250) - LP5
+├── DL/            → Deep Learning (410251) - LP5
+├── NLP/           → Natural Language Processing (410252) - LP6
+├── BI/            → Business Intelligence (410253) - LP6
+├── Audit_Course/  → Emotional Intelligence (410257/410249)
 └── README.md
 ```
 
 ---
 
-## 🧠 Subjects Covered
-
----
-
-### 🔹 NLP – Natural Language Processing (410252)
-
-* Tokenization, Stemming, Lemmatization
-* Bag of Words, TF-IDF, Word2Vec
-* Text preprocessing and feature extraction
-* Transformer implementation
-* Morphological analysis
-
-📁 Folder: `NLP/`
-
----
-
-### 🔹 DL – Deep Learning (410251)
-
-* DNN for regression (Boston Housing)
-* Binary classification (IMDB dataset)
-* CNN for image classification (Fashion MNIST)
-
-📁 Folder: `DL/`
+## 🧠 Laboratory Practice V (LP5) - Companion Courses: HPC & DL
 
 ---
 
 ### 🔹 HPC – High Performance Computing (410250)
 
 * Parallel BFS and DFS (OpenMP)
-* Parallel Sorting Algorithms
+* Parallel Bubble Sort & Merge Sort
 * Parallel Reduction (Min, Max, Sum, Avg)
-* CUDA Programming
+* CUDA Programming (Vector Addition, Matrix Multiplication)
+* CNN on MNIST (GPU)
 
 📁 Folder: `HPC/`
 
 ---
 
+### 🔹 DL – Deep Learning (410251)
+
+* Linear Regression (Boston Housing Price Prediction) using DNN
+* Binary Classification (IMDB Sentiment Analysis) using DNN
+* CNN for Image Classification (Fashion MNIST)
+* RNN for Time Series Prediction (Stock Prices)
+
+📁 Folder: `DL/`
+
+---
+
+## 🧠 Laboratory Practice VI (LP6) - Companion Courses: NLP & BI
+
+---
+
+### 🔹 NLP – Natural Language Processing (410252)
+
+* Tokenization (Whitespace, Punctuation, Treebank, Tweet, MWE)
+* Stemming (Porter, Snowball) & Lemmatization
+* Bag of Words, TF-IDF, Word2Vec
+* Text preprocessing and feature extraction
+* Transformer implementation from scratch
+* Morphological Analysis
+
+📁 Folder: `NLP/`
+
+---
+
 ### 🔹 BI – Business Intelligence (410253)
 
-* Data import from multiple sources
-* ETL process implementation
-* Data warehouse and cube creation
-* Pivot tables and visualization
-* Classification / clustering
+* Data import from multiple sources (Excel, SQL Server, OData)
+* ETL Process implementation
+* Data warehouse design (ROLAP, MOLAP, HOLAP)
+* Pivot tables and visualization (Power BI, Excel)
+* Classification (Naive Bayes)
 
 📁 Folder: `BI/`
 
 ---
 
-### 🔹 Audit Course – Emotional Intelligence (410257)
+## 📚 Audit Course 8 (410257)
+
+---
+
+### 🔹 Emotional Intelligence (AC8-V)
 
 * Self-awareness and self-regulation
 * Emotional intelligence models (Goleman's EQ)
