@@ -10,10 +10,11 @@ It includes coursework from multiple subjects with structured folders for better
 
 ```
 SPPU-BE-Project-Sem-8/
-├── NLP/   → Natural Language Processing (410252)
-├── DL/    → Deep Learning (410251)
-├── HPC/   → High Performance Computing (410250)
-├── BI/    → Business Intelligence (410253)
+├── NLP/           → Natural Language Processing (410252)
+├── DL/            → Deep Learning (410251)
+├── HPC/           → High Performance Computing (410250)
+├── BI/            → Business Intelligence (410253)
+├── Audit_Course/  → Emotional Intelligence (410257)
 └── README.md
 ```
 
@@ -65,6 +66,17 @@ SPPU-BE-Project-Sem-8/
 * Classification / clustering
 
 📁 Folder: `BI/`
+
+---
+
+### 🔹 Audit Course – Emotional Intelligence (410257)
+
+* Self-awareness and self-regulation
+* Emotional intelligence models (Goleman's EQ)
+* Empathy and interpersonal skills
+* Leadership and team motivation
+
+📁 Folder: `Audit_Course/`
 
 ---
 
